@@ -1,9 +1,10 @@
----
+Sammy test
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to today working with Ning!"
 ---
 
-Caption here
+This is a great day
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
+get
